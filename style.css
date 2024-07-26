@@ -24,7 +24,15 @@
 }
 
 .escola-imagem{
-    width: 30%;
+    width: 85%;
+}
+  .escola{
+    background-image: linear-gradient (#ff0000c9,#3b3133d8);
+    color:rgb(216, 41, 41);
+    display: flex;
+    justify-content: center;rgba(80, 3, 13, 0.847)rgba(71, 14, 21, 0.847)
+    align-items: center;
+    padding: 24px 0;
 }
 
 .escola-div-conteudo{
@@ -33,12 +41,3 @@
 .escola-titulo{
     padding: 24px 0;
 }
-.escola{
-    background-image: linear-gradient (#ff0000c9,#3b3133d8);
-    color:white;
-    display: flex;
-    justify-content: center;rgba(80, 3, 13, 0.847)rgba(71, 14, 21, 0.847)
-    align-items: center;
-    padding: 24px 0;
-}
-
